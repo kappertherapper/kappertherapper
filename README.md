@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kappertherapper
 - 👀 I’m interested in learning new stuff!
-- 📚 I'm studying computer science where i currently is learning java and sql.
-- 🌱 I’m also learning html and css,javascript (odin projekt).
+- 📚 I'm studying computer science where i diving into object oriented programming (OOP).
+- 👨🏼‍💻 Also saving my stuff in a database doing it with SQL
+- 🌱 On my way to 3th semester (Datamatiker, EAAA)
 
 
 <!---
