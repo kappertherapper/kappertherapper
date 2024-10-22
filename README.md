@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kappertherapper
+- 👋 Hi, I’m Kasper Jonassen
 - 👀 I’m interested in learning new stuff!
-- 📚 I'm studying computer science.
+- 📚 And studying computer science on EAAA.
 
 
 <!---
