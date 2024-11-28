@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kasper Jonassen & a Developer
 - 👀 I’m working hard to learn new stuff!
-- 🐸 I'm interested in web development (mostly backend, but frontend is fun too)
+- 🐸 I'm mostly interested in backend, but frontend is fun too.
 - 📚 And studying computer science on EAAA.
-- 
 
 
 <!---
