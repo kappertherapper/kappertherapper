@@ -10,6 +10,8 @@
 	🧦 Neat code. Cooler sneakers.
 	🐸 Always curious, always coding
 
+	🔗 [My portfolio](https://kasperjonassen.dev)  
+	📦 [Check out my inventory app](https://github.com/kasperjonassen/sneaker-inventory)  
 	💼 [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
 
 
