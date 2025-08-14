@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Kasper
+👋 Hi, I’m Kasper
 
-- Graduated in Computer Science from EAAA
-- Passionate about learning and building cool things
+Graduated in Computer Science from EAAA
+Passionate about learning and building cool things
 
 ⋅⋅⋅
 
-- Mainly focused on backend development – but I enjoy a frontend challenge too
-- Strong understanding of software development across platforms, including mobile, web, and backend. 
-- Experienced in object-oriented programming, databases, and integrating diverse technologies.
+Mainly focused on backend development – but I enjoy a frontend challenge too
+Strong understanding of software development across platforms, including mobile, web, and backend. 
+Experienced in object-oriented programming, databases, and integrating diverse technologies.
 
 ⋅⋅⋅
 
