@@ -5,13 +5,12 @@
 
 ⋅⋅⋅
 
-- Mainly focused on backend development – but I enjoy a frontend challenge too
 - Strong understanding of software development across platforms, including mobile, web, and backend. 
 - Experienced in object-oriented programming, databases, and integrating diverse technologies.
 
 ⋅⋅⋅
 
-- Currently building an inventory management app for my own business selling second-hand sneakers
+- Currently building an inventory management app for my sneakers
 
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
 
