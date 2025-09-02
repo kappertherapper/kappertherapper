@@ -13,6 +13,7 @@
 - Currently building an inventory management app for my sneakers
 
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
+🌐 [Check out my site](https://www.kasperkluns.dk)
 
 Neat code. Cooler sneakers.
 Always curious, always coding
