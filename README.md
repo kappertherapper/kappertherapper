@@ -10,7 +10,7 @@
 > Strong understanding of software development across platforms, including mobile, web, and backend. 
 
 
-> Experienced in object-oriented programming, databases, and integrating diverse technologies.
+> Experienced in object-oriented programming, databases, and integrating various technologies.
 
 ---
 
