@@ -14,7 +14,7 @@
 
 ---
 
-Currently building an inventory management app for my sneakers: [kasperkluns](../kasperkluns)
+Currently building an inventory management app for my sneakers: [kasperkluns](/kasperkluns)
 
 <br><br>
 ‎
