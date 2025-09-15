@@ -12,11 +12,13 @@
 
 - Currently building an inventory management app for my sneakers
 
+Neat code. Cooler sneakers.
+
+
+Always curious, always coding
+
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
 - 🌐 [Check out my site](https://www.kasperkluns.dk)
-
-Neat code. Cooler sneakers.
-Always curious, always coding
 <!---
 kappertherapper/kappertherapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
