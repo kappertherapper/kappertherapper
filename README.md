@@ -19,10 +19,10 @@ Currently building an inventory management app for my sneakers: [kasperkluns](ht
 <br><br>
 ‎
 
-💼: [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
+💼 ‎ [Connect on LinkedIn](https://www.linkedin.com/in/kasperjonassen)
 
 
-🌐: [Check out my site](https://www.kasperkluns.dk)
+🌐 ‎ [Check out my site](https://www.kasperkluns.dk)
 
 <br><br>
 
