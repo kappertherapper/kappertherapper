@@ -29,7 +29,7 @@ Currently building an inventory management app for my sneakers: [kasperkluns](ht
 Neat code. Cooler sneakers.
 
 
-Always curious, always coding
+Always curious
 <!---
 kappertherapper/kappertherapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
