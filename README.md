@@ -17,7 +17,7 @@
 
 ---
 
-Currently building an inventory management app for my sneakers: [kasperkluns](https://github.com/kappertherapper/kasperkluns)
+Check out my inventory management app for my sneakers: [kasperkluns](https://github.com/kappertherapper/kasperkluns)
 
 <br><br>
 ‎
