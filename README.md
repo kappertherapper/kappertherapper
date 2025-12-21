@@ -5,6 +5,9 @@
 
 > Passionate about learning and building cool things
 
+
+> Heading the cyber sec way
+
 ⋅⋅⋅
 
 > Strong understanding of software development across platforms, including mobile, web, and backend. 
