@@ -6,7 +6,7 @@
 > Passionate about learning and building cool things.
 
 
-> Heading the cyber security.
+> Heading into cyber security.
 
 ⋅⋅⋅
 
