@@ -1,12 +1,12 @@
 👋 Hi, I’m Kasper
 
-> Graduated in Computer Science from EAAA
+> Graduated in Computer Science from EAAA.
 
 
-> Passionate about learning and building cool things
+> Passionate about learning and building cool things.
 
 
-> Heading the cyber sec way
+> Heading the cyber security.
 
 ⋅⋅⋅
 
