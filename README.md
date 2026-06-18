@@ -8,6 +8,8 @@
 
 > Heading into cyber security.
 
+> Studering into it security on EK
+
 ⋅⋅⋅
 
 > Strong understanding of software development across platforms, including mobile, web, and backend. 
