@@ -6,7 +6,9 @@
 > Passionate about learning and building cool things.
 
 
-> Heading into cyber security (Now studering in Copenhagen on EK)
+> Big big interest for cyber security
+
+> Skilled in cryptography, network and communication security, system hardening with hands-on experience in secure protocols and vulnerability assessment.
 
 ⋅⋅⋅
 
