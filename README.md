@@ -8,7 +8,7 @@
 
 > Big big interest for cyber security
 
-> Skilled in cryptography, network and communication security, system hardening with hands-on experience in secure protocols and vulnerability assessment.
+> Skilled in cryptography, network and communication security, system hardening with hands-on experience in protocols and vulnerability assessment.
 
 ⋅⋅⋅
 
