@@ -3,12 +3,10 @@
 > Graduated in Computer Science from EAAA in Aarhus.
 
 
-> Passionate about learning and building cool things.
+> Passionate about learning and securing cool things.
 
 
 > Big big interest for cyber security
-
-> Skilled in cryptography, network and communication security, system hardening with hands-on experience in protocols and vulnerability assessment.
 
 ⋅⋅⋅
 
