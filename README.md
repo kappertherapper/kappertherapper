@@ -3,17 +3,17 @@
 > Graduated in Computer Science from EAAA in Aarhus.
 
 
-> Passionate about learning and securing cool stuff.
+> passionate about learning and securing cool stuff.
 
 
-> Big big interest for cyber security
+> big big interest for cyber security
 
 ⋅⋅⋅
 
-> Strong understanding of software development across platforms, including mobile, web, and backend. 
+> understanding of software development across platforms, including mobile, web, and backend. 
 
 
-> Experienced in object-oriented programming, databases, and integrating various technologies.
+> experienced in object-oriented programming, databases, and integrating various technologies.
 
 ---
 
@@ -24,7 +24,7 @@
 <br><br>
 <br><br>
 
-Neat code. Cooler sneakers.
+Neat code. Secure base. Cooler sneakers.
 
 
 Always curious
