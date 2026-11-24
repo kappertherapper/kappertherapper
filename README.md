@@ -22,7 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Linkedin?" alt="LinkedIn" />
 </a>
 <br><br>
-<br><br>
 
 Neat code. Secure base. Cooler sneakers.
 
