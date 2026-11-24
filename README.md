@@ -1,12 +1,12 @@
 👋 Hi, I’m Kasper
 
-> Graduated in Computer Science from EAAA in Aarhus.
+> graduated in Computer Science from EAAA in Aarhus.
 
 
 > passionate about learning and securing cool stuff.
 
 
-> big big interest for cyber security
+> big big interest for cyber security.
 
 ⋅⋅⋅
 
